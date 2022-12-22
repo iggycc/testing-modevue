@@ -49,7 +49,7 @@ export default {
       carouselsData: [
         {
           src: 'pexels-andrea-piacquadio-3884440.jpg',
-          heading: ' PROMOTE YOUR BUSINESS WITH US ',
+          heading: ' PROMOTE YOUR BUSINESS WITH OR WITHOUT US ',
           subHeading:
             'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
         },
